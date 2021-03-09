@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalHack</string>
+    <string name="title_location_permission">asdada</string>
+    <string name="text_location_permission">asdasd</string>
+    <string name="ok">ok</string>
+    <string name="unknown_error_message">213</string>
+    <string name="remote_error_message">wqe</string>
+    <string name="network_error_message">qweqwe</string>
+</resources>
